@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @xXJ0NXx
-- 👀 I’m interested in idk
+- 👋 Hi, I’m @xXJ0NXx or XENOTECH
+- 👀 I’m interested in unblocked games
 - 🌱 I’m currently learning nothing
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me no
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I replicated fnaf into minecraft bedrock with command blocks
 
