@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xXJ0NXx or XENOTECH
 - 👀 I’m interested in unblocked games
-- 🌱 I’m currently learning nothing
+- 🌱 I’m currently HTML and CCS
 - 💞️ I’m looking to collaborate on nothing
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I replicated fnaf into minecraft bedrock with command blocks
