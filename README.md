@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xXJ0NXx or XENOTECH
-- 👀 I’m interested in unblocked games, Especially Eaglercraft
+- 👀 I’m interested in Pirated games, Especially Eaglercraft
 - 🌱 I’m currently Learning HTML And CCS 
 - 💞️ I’m looking to collaborate on nothing
 - 😄 Pronouns: he/him
