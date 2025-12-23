@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @xXJ0NXx or XENOTECH
+- 👋 Hi, I’m @xXJ0NXx or Jon Stearns
 - 👀 I’m interested in Pirated games, Especially Eaglercraft
-- 🌱 I’m currently Learning HTML And CCS 
+- 🌱 I’m currently Learning How To Port Eaglercraft Versions 
 - 💞️ I’m looking to collaborate on nothing
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I replicated fnaf into minecraft bedrock with command blocks
+- ⚡ Fun fact: I Ported Minecraft Beta 1.0 To The Web
