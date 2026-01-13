@@ -75,7 +75,7 @@ I’m <strong>xXJ0NXx or Jon Stearns</strong>, a 15-year-old idiot who likes eag
 
 <ul>
   <li>WebPorts</li>
-  <li>Minecraft</li>
+  <li>Eaglercraft</li>
   <li>Old Computers</li>
 </ul>
 
