@@ -7,7 +7,7 @@
 </h1>
 
 <p style="font-size: 14px; color: #666; margin-top: 4px;">
-  15-year-old developer • Game ports • Web-based clients • Launchers
+  15-year-old developer • Eaglercraft • Unblocked Games • Idiot
 </p>
 
 <hr style="width: 60%; border: 0; border-top: 1px solid #ddd;">
@@ -24,7 +24,7 @@
 <h2>About</h2>
 
 <p>
-I’m <strong>xXJ0NXx</strong>, a 15-year-old idiot who likes eaglercraft.
+I’m <strong>xXJ0NXx or Jon Stearns</strong>, a 15-year-old idiot who likes eaglercraft.
 </p>
 
 <h2>Projects</h2>
